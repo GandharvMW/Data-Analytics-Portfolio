@@ -10,3 +10,10 @@ An interactive Tableau dashboard analyzing Netflix viewing trends, genre popular
 
 ## 🛠️ Tools & Techniques
 Tableau • Data Cleaning • Dashboard Design • Data Visualization • Analytics Storytelling
+
+## 📸 Dashboard Preview
+![Netflix Dashboard](dashboard_preview.png)
+
+## 🔗 View Live Dashboard
+[Click here to view on Tableau Public](https://public.tableau.com/app/profile/yourusername/viz/NetflixDashboard)
+
