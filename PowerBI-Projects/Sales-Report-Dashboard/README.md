@@ -13,7 +13,7 @@ An interactive Power BI dashboard analyzing real-world sales data across multipl
 Power BI • DAX • Data Modeling • Data Cleaning • Visualization Design • Business Analytics
 
 ## 📸 Dashboard Preview
-![Sales Report Dashboard](dashboard_preview.png)
+![Sales Report Dashboard](dashboard_preview1.png)
 
 ## 📁 Files Included
 - `Sales_Report.pbix` — Power BI project file  
